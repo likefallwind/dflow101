@@ -35,7 +35,7 @@ If you use your own docker images, you are supposed to specify all the packages 
 - Others...
 
 ## Step 2. Open an issue
-If you are ready to submit your own dflow proposal to [dflow101](https://github.com/likefallwind/dflow101), you can open an issue [there](https://github.com/likefallwind/dflow101/issues). In order to present all dflow101 issues more clearly to others, here are some rules you must follow.
+If you are ready to submit your own dflow proposal to [dflow101](https://github.com/likefallwind/dflow101), you can open an issue [there](https://github.com/likefallwind/dflow101/issues). There is [an example](https://github.com/likefallwind/dflow101/issues/3) for your reference. In order to present all dflow101 issues more clearly to others, here are some rules you must follow.
 
 - Title
 
