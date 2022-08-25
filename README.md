@@ -16,7 +16,7 @@ In [dflow repo](https://github.com/deepmodeling/dflow), there are several docume
 ## Join us
 We welcome anyone interested to join **dflow101**. The expected dflow project can be released in your own Github repo, including a README document, executable python scripts and supporting files (e.g. uploaded files, Dockerfile and others). 
 
-For more information, please refer to  submission_guidelines.md here.
+For more information, please refer to  [submission_guidelines.md](https://github.com/veritas496/dflow101/blob/main/submission_guidelines.md) here.
 
 Come on and join this fantastic project!
 
