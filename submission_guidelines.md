@@ -18,6 +18,7 @@ You'd better use several keywords to describe the workflow.
 You need to specify what you want to do with dflow. For instance, you can describe the traditional workflow and then state how you can achieve the automatic workflow based on dflow. Naturally, you are encouraged to state why using dflow is beneficial.
 
 - Details
+- 
 You are encouraged to state the traditional application scenarios and the corresponding problems. Besides, you'd better describe your OP and step, including input(parameter, artifacts, etc.), output, execute and how to use OP templates by adding step. Last but not least, it will be appreciated if you point out where the user needs to make personalized changes, for example, the VASP execute environment, slurm connection, etc.
 
 ### Executable script
