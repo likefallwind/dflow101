@@ -11,7 +11,7 @@ In [dflow repo](https://github.com/deepmodeling/dflow), there are several docume
 - [Get-started tutorials](https://github.com/deepmodeling/dflow/tree/master/tutorials)
 
 ## dflow projects
-- 
+- dflow for VASP single-point calculations (ELF, DOS, charge density) using pymatgen, [LINK](https://github.com/veritas496/dflow101_electronic-structure-cal_VASP)
 
 ## Join us
 We welcome anyone interested to join **dflow101**. The expected dflow project can be released in your own Github repo, including a README document, executable python scripts and supporting files (e.g. uploaded files, Dockerfile and others). 
